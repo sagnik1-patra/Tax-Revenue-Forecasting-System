@@ -1,0 +1,4 @@
+dataset: D48-VATandGST_24.csv
+forecast_years: 5
+model: Linear Regression
+note: Graphs displayed before saving

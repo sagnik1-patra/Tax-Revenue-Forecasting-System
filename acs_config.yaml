@@ -1,0 +1,7 @@
+aco_iterations: 30
+ais_iterations: 20
+model: Hybrid AIS + ACO Optimized Regression (ACS)
+optimized_parameters:
+  intercept: -0.48322934743425616
+  slope: 0.0005192001662991108
+population_size: 20

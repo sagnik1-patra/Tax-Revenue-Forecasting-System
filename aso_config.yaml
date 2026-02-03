@@ -1,0 +1,7 @@
+aco_iterations: 30
+model: Hybrid PSO + ACO Optimized Regression (ASO)
+optimized_parameters:
+  intercept: 0.18430238833015036
+  slope: -6.830183013590337e-05
+population_size: 20
+pso_iterations: 30

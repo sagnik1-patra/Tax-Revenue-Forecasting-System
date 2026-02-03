@@ -1,0 +1,7 @@
+csa_iterations: 30
+model: Hybrid PSO + CSA Optimized Regression (PSA)
+optimized_parameters:
+  intercept: 0.19640717722353934
+  slope: -0.00014474560146656226
+population_size: 20
+pso_iterations: 30

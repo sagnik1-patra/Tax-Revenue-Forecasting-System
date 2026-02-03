@@ -1,0 +1,8 @@
+ais_iterations: 20
+harmony_memory_size: 20
+hsa_iterations: 30
+model: Hybrid AIS + HSA Optimized Regression (HIS)
+optimized_parameters:
+  intercept: -0.37695891285973
+  slope: 0.0003553304669474053
+population_size: 20

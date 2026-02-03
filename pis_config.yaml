@@ -1,0 +1,7 @@
+ais_iterations: 20
+model: Hybrid AIS + PSO Optimized Regression (PIS)
+optimized_parameters:
+  intercept: -0.6021504776895178
+  slope: 0.0004995753544077949
+population_size: 20
+pso_iterations: 30

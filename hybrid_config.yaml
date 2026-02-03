@@ -1,0 +1,7 @@
+ais_iterations: 20
+csa_iterations: 30
+model: Hybrid AIS + CSA Optimized Regression
+optimized_weights:
+  intercept: -0.6081429024024707
+  slope: 0.0003553304669474053
+population_size: 20

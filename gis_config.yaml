@@ -1,0 +1,7 @@
+generations: 40
+model: Hybrid GA + AIS Optimized Regression (GIS)
+mutation_rate: 0.2
+optimized_parameters:
+  intercept: -0.4291755709749788
+  slope: 0.00039033779182720725
+population_size: 20

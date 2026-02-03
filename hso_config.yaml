@@ -1,0 +1,7 @@
+hsa_iterations: 30
+model: Hybrid PSO + HSA Optimized Regression (HSO)
+optimized_parameters:
+  intercept: 0.2957364448394426
+  slope: -0.0008941785925939631
+population_size: 20
+pso_iterations: 30
